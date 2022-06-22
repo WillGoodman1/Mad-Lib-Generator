@@ -14,4 +14,8 @@ What did I learn?
   - How to make get github PAT
   - That stack overflow is very helpful (so far at least)
 
+How could I make this better?
+  - I could add additional mad libs and find a way to randomly present one of them to the user, so that the same code could deliver more than just on mad lib
+  - I could potentially have the output printed into a txt file should the user want so they could re-read their mad lib later if they wanted.
+
 1/42 
