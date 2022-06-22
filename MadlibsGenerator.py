@@ -1,0 +1,32 @@
+# Mad Libs Generator
+
+
+
+var1 = input('Type an adjective ')
+var2 = input('Type an adjective ')
+var3 = input('Type a noun ')
+var4 = input('Type a noun ')
+var5 = input('Type a plural noun ')
+var6 = input('Name a game ')
+var7 = input('Type a plural noun ')
+var8 = input('Type a verb ending in "ing" ')
+var9 = input('Type a verb ending in "ing" ')
+var10 = input('Type a plural noun ')
+var11 = input('Type a verb ending in "ing" ')
+var12 = input('Type a noun ')
+var13 = input('Name a plant ')
+var14 = input('Name a part of the body ')
+var15 = input('Name a place ')
+var16 = input('Type a verb ending in "ing" ')
+var17 = input('Type an adjective ')
+var18 = input('Type in a number ')
+var19 = input('Type a plural noun ')
+
+print('A vacation is when you take a trip to some ' + var1 + ' place with your ' + var2 + ' family. ')
+print('Usually you go to some place that is near a/an ' + var3 + ' or up on a/an ' + var4 + '. ')
+print('A good vacation place is one where you can ride ' + var5 + ' or play ' + var6 + ' or go hunting for ' + var7 + '. ')
+print('I  like to spend my time ' + var8 + ' or ' + var9 + '. ')
+print('When parents go on a vacation, they spend their time eating three ' + var10 + ' a day, and fathers play golf, and mothers sit around ' + var11 + '. ')
+print('Last summer, my little brother fell in a/an ' + var12 + ' and got poison ' + var13 + ' all over his ' + var14 + '. ')
+print('My family is going to go to (the) ' + var15 + ' , and I will practice ' + var16 + '. ')
+print('Parents need vacations more than kids because parents are always very ' + var17 + ' and because they have to work' + var18 + ' hours every day all year making enough ' + var19 + ' to pay for the vacation.')
